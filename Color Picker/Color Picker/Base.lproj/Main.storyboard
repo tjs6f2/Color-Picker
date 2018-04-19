@@ -43,8 +43,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="UILabel" destination="SVK-7p-f6Z" id="I5T-f3-Rwp"/>
-                        <outlet property="UIPicker" destination="ctE-9Y-ljn" id="z5P-Ur-IN1"/>
+                        <outlet property="label" destination="SVK-7p-f6Z" id="OHr-g2-Ntc"/>
+                        <outlet property="pickerView" destination="ctE-9Y-ljn" id="eiX-zu-8RN"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
